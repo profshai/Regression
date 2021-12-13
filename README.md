@@ -1,5 +1,6 @@
-# Regression
-The Regression models contained in this repository are:
+# Regression Analysis
+
+The following regression models are considered:
 1.	Linear regression
 2.	Polynomial regression
 3.	Support Vector Regression
